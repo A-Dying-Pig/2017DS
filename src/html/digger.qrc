@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>digger.ico</file>
+        <file>prime.png</file>
+    </qresource>
+</RCC>
